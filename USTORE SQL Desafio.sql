@@ -2,6 +2,8 @@
 
 create schema RHJOAOARAUJO;
 
+USE RHJOAOARAUJO;
+
 CREATE TABLE `employee` (
 `id` integer NOT NULL AUTO_INCREMENT,
 `name` varchar(110) NOT NULL,
